@@ -9,7 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "react": "^1.8.0"
+      "react": "^0.15.0-alpha"
     },
     "type": "module"
   }
